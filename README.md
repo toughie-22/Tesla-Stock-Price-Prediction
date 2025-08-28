@@ -3,6 +3,8 @@
 Predicting the future is hard. Predicting stock prices? Even harder. But with the right mix of data science, machine learning, and curiosity, we can uncover patterns that bring us closer to making sense of financial markets.
 
 This project focuses on Tesla (TSLA) — one of the most volatile and talked-about stocks of the decade. Using historical price data and machine learning, we build and evaluate models to forecast Tesla’s stock price movement.
+
+
 🔍 Project Overview
 
 Objective: To analyze Tesla’s historical stock data and predict future price trends.
